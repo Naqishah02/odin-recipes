@@ -14,6 +14,7 @@ html,body {
 .navigation {
     width: fit-content;
     margin: 0 auto;
+    padding: 10px;
 }
 .navigation a{
     background-color: #333;
