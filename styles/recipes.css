@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-align: justify;
 }
 html, body {
     height: 100%;
@@ -21,8 +22,8 @@ html, body {
 }
 
 .main-section {
-    margin: auto; 
-    width: 800px;
+    margin: 0 auto; 
+    max-width: 800px;
 }
 .sub-section h2{
     padding: 4px;
