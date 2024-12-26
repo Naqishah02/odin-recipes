@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} 
+.recipe-title {
+    text-align: center;
+    color: darkred;
+}  
+.image-container {
+    width: 100%;
+    text-align: center;
+}
+.recipe-image {  
+    border: 1px solid darkgray;
+}
+
+.main-section {
+    margin: auto; 
+    width: 800px;
+}
+.sub-section h2{
+    padding: 4px;
+}
+.sub-heading {
+    color: teal;
+} 
+.sub-section li {
+    padding: 3px 40px;
+    list-style-position: inside;
+}
